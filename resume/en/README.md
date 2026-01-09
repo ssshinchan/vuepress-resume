@@ -39,7 +39,8 @@
 - Master Redis, Memcached, MongoDB and other non-relational databases.
 - Knowledge of distributed technologies like Dubbo, Spring Cloud.
 - Experience in Hadoop and Spark.
-- Good working knowledge of agile software development values, principles, and practices. Experience Git Flow in the projects.
+- Good working knowledge of agile software development values, principles, and practices. 
+- Experience Git Flow in the projects.
 - Know the CI/CD tools like Jenkins, GitHub Action, Gitlab CI.
 - Know version control tools such as SVN, Git
 - Know the container tech like Docker and Kubernetes and Experienced in the projects.
@@ -139,7 +140,7 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 
 ## Certificate
 
-- China Programmer Certification (mutually recognized with Japan's `基本情報技術者`) <span class="right">Issued 2025.05</span>
+- China Programmer Certification (mutually acknowledged with Japan's `基本情報技術者`) <span class="right">Issued 2025.05</span>
 - Japanese-Language Proficiency Test (JLPT) N2 - Score 116 <span class="right">Issued 2025.08</span>
 - China College English Test (CET-6) - Score 499 <span class="right">Issued 2016.06</span>
 - China College English Test (CET-4) - Score 545 <span class="right">Issued 2015.12</span>

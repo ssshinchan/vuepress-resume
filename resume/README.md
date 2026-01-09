@@ -25,11 +25,11 @@
 
 - **浙江万里学院** コンピュータサイエンス技術、学士 <span class="right">2015.09 - 2019.06</span>
 
-- **京都情報大学院大学** ウェブビジネス技術、修士 <span class="right">2025.09 - 2027.09</span>
+- **京都情報大学院大学** 応用情報技術研究科ウエプビジネス技術專攻、修士 <span class="right">2025.09 - 2027.09</span>
 
 ## 概要
 
-- ゲーム業界で6年の経験があり、ポータルサイト、CMS、投票、認証、会員管理、ゲーム連携サービスなどの専門知識を持っています。
+- ゲーム業界で6年の経験があり、ポータルサイト、CMS、投票、認証、会員、ゲーム連携サービスなどの専門知識を持っています。
 - マルチスレッド、コレクション、Bean、OOP、J2EE、Servlet、JSPなど、優れたJava開発スキルを持っています。
 - HTTP/TCP/IPプロトコルに精通しています。
 - SpringMVC、Spring、MyBatis、SpringBootに精通しており、Struts2、Hibernate、Play2などのオープンソースフレームワークも理解しています。
@@ -39,7 +39,8 @@
 - Redis、Memcached、MongoDBなどのNoSQLデータベースを習得しています。
 - Dubbo、Spring Cloudなどの分散技術の知識があります。
 - HadoopとSparkの経験があります。
-- アジャイルソフトウェア開発の価値、原則、実践に関する十分な知識があります。プロジェクトでのGit Flowの経験があります。
+- アジャイルソフトウェア開発の価値、原則、実践に関する十分な知識があります。
+- プロジェクトでのGit Flowの経験があります。
 - Jenkins、GitHub Action、Gitlab CIなどのCI/CDツールを知っています。
 - SVN、Gitなどのバージョン管理ツールを知っています。
 - DockerやKubernetesなどのコンテナ技術を知っており、プロジェクトでの経験があります。
@@ -66,7 +67,7 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 - Apex Legends Global Series Leaderboard – Apexの生データから結果を計算して表示。
 - Common game acquire page – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
 - FC/NHL/F1/Madden Player Ratings – EA.COMとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
-- EA Employee Authentication – 未公開コンテンツの漏洩を防ぐための内部認証。
+- EA Employee Authentication – 未公開コンテンツのリークを防ぐための内部認証。
 - ゲームの購入とプロモーション。
 - その他多数の機能。
 
