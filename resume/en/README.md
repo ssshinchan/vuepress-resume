@@ -48,6 +48,7 @@
 - Proficient in English and Japanese; able to communicate effectively in software development environments. Hold CET-6 and JLPT N2 certifications.
 - Have hands-on experience in handling Use Cases, Functional Specifications, Knowledge Transfers, and Business Analysis.
 - Have strong analytical, critical thinking, and problem-solving skills, able to convert complex concepts/requirements into code.
+- Proficient in LLM-related concepts such as Embedding, RAG, and prompt engineering. Experienced in leveraging AI tools like GitHub Copilot and Claude Code for development.
 
 ## Professional Experience
 
