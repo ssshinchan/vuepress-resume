@@ -56,7 +56,7 @@
 
 ## Project Experience
 
-### EA.com <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://www.ea.com" target="_blank">www.ea.com</a> <span class="right">2019.06 - 2025.08</span>
+### EA.com <span class="role">Software Engineer - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a><span class="right">2019.06 - 2025.08</span>
 
 EA.com serves as the primary global hub for Electronic Arts, integrating a comprehensive gaming ecosystem. The platform functions as a centralized portal for game discovery, account management for millions of players, and a direct-to-consumer digital storefront. It provides real-time service status updates, and localized content delivery for a diverse international audience.
 

@@ -56,7 +56,7 @@
 
 ## プロジェクト経験
 
-### EA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://www.ea.com" target="_blank">www.ea.com</a> <span class="right">2019.06 - 2025.08</span>
+### EA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019.06 - 2025.08</span>
 
 EA.comはElectronic Artsの主要なグローバルハブであり、包括的なゲームエコシステムを統合しています。このプラットフォームは、ゲームの発見、数百万人のプレイヤーのアカウント管理、および消費者への直接的なデジタルストアフロントのための集中型ポータルとして機能します。リアルタイムのサービスステータスの更新や、多様な国際的な視聴者に向けたローカライズされたコンテンツ配信を提供します。
 
