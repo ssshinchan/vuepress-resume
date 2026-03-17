@@ -23,40 +23,42 @@
 
 ## Education
 
-- **Zhejiang Wanli University** Computer Science and Technology, Bachelor <span class="right">2015.09 - 2019.06</span>
+- **Zhejiang Wanli University** Computer Science and Technology, Bachelor <span class="right">Sep 2015 - Jun 2019</span>
 
-- **The Kyoto College of Graduate Studies for Informatics** Web Business Technology, Master <span class="right">2025.09 - 2027.09</span>
+- **The Kyoto College of Graduate Studies for Informatics** Web Business Technology, Master <span class="right">Oct 2025 - Sep 2027</span>
 
 ## Summary
 
-- 6 years of experience in the game industry, with expertise in portal websites, CMS, voting, authentication, membership, and game interaction services.
-- Excellent Java development skills of multi-thread, collections, beans, OOP, J2EE, Servlet, JSP, etc.
-- Familiar with HTTP/TCP/IP protocol.
-- Proficient in SpringMVC, Spring, MyBatis, SpringBoot, and understand Struts2, Hibernate, Play2 and other open-source frameworks.
-- Proficient in HTML, CSS, JavaScript, TypeScript. Master jQuery, EasyUI, Bootstrap, LayUI, Vue.js and other JS libraries/Front-End frameworks.
-- Experience template engines such as Freemarker and Thymeleaf.
-- Extensive MySQL development experience, understanding index and optimization strategy.
-- Master Redis, Memcached, MongoDB and other non-relational databases.
-- Knowledge of distributed technologies like Dubbo, Spring Cloud.
-- Experience in Hadoop and Spark.
-- Good working knowledge of agile software development values, principles, and practices. 
-- Experience Git Flow in the projects.
-- Know the CI/CD tools like Jenkins, GitHub Action, Gitlab CI.
-- Know version control tools such as SVN, Git
-- Know the container tech like Docker and Kubernetes and Experienced in the projects.
-- Have basic knowledge of AWS, like Kubernetes, EC2, Kafka, Redis, MySQL, DocumentDB, DynamoDB, SQS, SNS, S3, etc.
-- Proficient in English and Japanese; able to communicate effectively in software development environments. Hold CET-6 and JLPT N2 certifications.
-- Have hands-on experience in handling Use Cases, Functional Specifications, Knowledge Transfers, and Business Analysis.
-- Have strong analytical, critical thinking, and problem-solving skills, able to convert complex concepts/requirements into code.
-- Proficient in LLM-related concepts such as Embedding, RAG, and prompt engineering. Experienced in leveraging AI tools like GitHub Copilot and Claude Code for development.
+- 6 years of experience in the game industry with expertise in portal sites, CMS, voting systems, authentication, membership, and game integration services.
+- Expert (Deep Production Experience)
+    - Backend: Java 8+, Spring Boot, Play Framework, Node.js, TypeScript
+    - Database: MySQL (index optimization), Redis, Memcached
+    - Infrastructure: AWS (Kubernetes, EC2, DocumentDB, Kafka, S3), Docker, Kubernetes
+    - Development Tools: Git, Jenkins, GitLab CI, IntelliJ IDEA
+- Proficient (Project Experience)
+    - Frameworks: Spring MVC, MyBatis, Koa.js, TypeORM
+    - Database: MongoDB, PostgreSQL, DynamoDB, Elastic Search
+    - Frontend: HTML, CSS, JavaScript, Vue.js, jQuery, Bootstrap
+    - Others: GraphQL, Gatling (load testing), Memcached
+- Familiar (Learning & Usage Experience)
+    - Languages: Kotlin, Scala
+    - Frameworks: Hibernate, Struts2, Spring Cloud, Dubbo
+    - Big Data: Hadoop, Spark
+    - Template Engines: Freemarker, Thymeleaf
+    - LLM: Embedding, RAG, prompt engineering (using Claude Code, Open Code)
+- Soft Skills
+    - Practical experience in Agile/Scrum development
+    - Cross-team communication and knowledge sharing
+    - Requirements analysis and documentation
+    - Communication in English and Japanese (CET-6, JLPT N2)
 
 ## Professional Experience
 
-**Suzhou Yinen Software Technology Co., Ltd. (Hatch Innovations)** Software Engineer <span class="right">2019.06 - 2025.08</span>
+**Suzhou Yinen Software Technology Co., Ltd. (Hatch Innovations)** Software Engineer <span class="right">Jun 2019 - Aug 2025</span>
 
 ## Project Experience
 
-### EA.com <span class="role">Software Engineer - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a><span class="right">2019.06 - 2025.08</span>
+### EA.com <span class="role">Software Engineer - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">Jun 2019 - Aug 2025</span>
 
 EA.com serves as the primary global hub for Electronic Arts, integrating a comprehensive gaming ecosystem. The platform functions as a centralized portal for game discovery, account management for millions of players, and a direct-to-consumer digital storefront. It provides real-time service status updates, and localized content delivery for a diverse international audience.
 
@@ -93,7 +95,7 @@ EA.com serves as the primary global hub for Electronic Arts, integrating a compr
 
 ---
 
-### Services used by EA.COM and third parties <span class="role">Software Engineer - Hatch Innovations</span><span class="right">2019.06 - 2025.08</span>
+### Services used by EA.COM and third parties <span class="role">Software Engineer - Hatch Innovations</span><span class="right">Jun 2019 - Aug 2025</span>
 
 - Separate services from EA.COM and support the features above
 - Reduce the EA.COM load and fit the EA.COM cache design.
@@ -117,7 +119,7 @@ EA.com serves as the primary global hub for Electronic Arts, integrating a compr
 
 ---
 
-### ESG.AI <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://esg.ai/our-product" target="_blank">ESG.AI product</a> <span class="right">2022.10 - 2023.03</span>
+### ESG.AI <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://esg.ai/our-product" target="_blank">ESG.AI product</a> <span class="right">Oct 2022 - Mar 2023</span>
 
 ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score along with actionable insights informed by industry trends, analytics, and dynamic modelling.
 
@@ -141,7 +143,8 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 
 ## Certificate
 
-- China Programmer Certification (mutually acknowledged with Japan's `基本情報技術者`) <span class="right">Issued 2025.05</span>
-- Japanese-Language Proficiency Test (JLPT) N2 - Score 116 <span class="right">Issued 2025.08</span>
-- China College English Test (CET-6) - Score 499 <span class="right">Issued 2016.06</span>
-- China College English Test (CET-4) - Score 545 <span class="right">Issued 2015.12</span>
+- Japan Information Security Management <span class="right">Issued Mar 2026</span>
+- China Programmer Certification (mutually acknowledged with Japan's `基本情報技術者`) <span class="right">Issued May 2025</span>
+- Japanese-Language Proficiency Test (JLPT) N2 <span class="right">Issued Aug 2025</span>
+- China College English Test (CET-6) - Score 499 <span class="right">Issued Jun 2016</span>
+- China College English Test (CET-4) - Score 545 <span class="right">Issued Dec 2015</span>

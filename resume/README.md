@@ -23,40 +23,42 @@
 
 ## 学歴
 
-- **浙江万里学院** コンピュータサイエンスと技術、学士 <span class="right">2015.09 - 2019.06</span>
+- **浙江万里学院** コンピュータサイエンスと技術、学士 <span class="right">2015年9月 - 2019年6月</span>
 
-- **京都情報大学院大学** 応用情報技術研究科ウエプビジネス技術専攻、修士 <span class="right">2025.09 - 2027.09</span>
+- **京都情報大学院大学** 応用情報技術研究科ウエプビジネス技術専攻、修士 <span class="right">2025年10月 - 2027年9月</span>
 
 ## 概要
 
 - ゲーム業界で6年の経験があり、ポータルサイト、CMS、投票、認証、会員、ゲーム連携サービスなどの専門知識を持っています。
-- マルチスレッド、コレクション、Bean、OOP、J2EE、Servlet、JSPなど、優れたJava開発スキルを持っています。
-- HTTP/TCP/IPプロトコルに精通しています。
-- SpringMVC、Spring、MyBatis、SpringBootに精通しており、Struts2、Hibernate、Play2などのオープンソースフレームワークも理解しています。
-- HTML、CSS、JavaScript、TypeScriptに精通しています。jQuery、EasyUI、Bootstrap、LayUI、Vue.jsなどのJSライブラリ/フロントエンドフレームワークを習得しています。
-- FreemarkerやThymeleafなどのテンプレートエンジンの経験があります。
-- 豊富なMySQL開発経験があり、インデックスや最適化戦略を理解しています。
-- Redis、Memcached、MongoDBなどのNoSQLデータベースを習得しています。
-- Dubbo、Spring Cloudなどの分散技術の知識があります。
-- HadoopとSparkの経験があります。
-- アジャイルソフトウェア開発の価値、原則、実践に関する十分な知識があります。
-- プロジェクトでのGit Flowの経験があります。
-- Jenkins、GitHub Action、Gitlab CIなどのCI/CDツールを知っています。
-- SVN、Gitなどのバージョン管理ツールを知っています。
-- DockerやKubernetesなどのコンテナ技術を知っており、プロジェクトでの経験があります。
-- Kubernetes、EC2、Kafka、Redis、MySQL、DocumentDB、DynamoDB、SQS、SNS、S3など、AWSの基本的な知識があります。
-- 英語と日本語に堪能で、ソフトウェア開発環境で効果的にコミュニケーションが取れます。CET-6とJLPT N2の資格を持っています。
-- ユースケース、機能仕様書、知識移転、ビジネス分析の取り扱いに関する実務経験があります。
-- 強力な分析力、批判的思考力、問題解決能力があり、複雑な概念や要件をコードに変換できます。
-- Embedding、RAG、プロンプトエンジニアリングなどのLLM関連知識を習得しており、GitHub CopilotやClaude CodeなどのAIツールを活用して開発ができます。
+- エキスパート(実務で深く使用)
+    - バックエンド: Java 8+, Spring Boot, Play Framework, Node.js, TypeScript
+    - データベース: MySQL (インデックス最適化), Redis, Memcached
+    - インフラ: AWS (Kubernetes, EC2, DocumentDB, Kafka, S3), Docker, Kubernetes
+    - 開発ツール: Git, Jenkins, GitLab CI, IntelliJ IDEA
+- 熟練(プロジェクトで使用経験あり)
+    - フレームワーク: Spring MVC, MyBatis, Koa.js, TypeORM
+    - データベース: MongoDB, PostgreSQL, DynamoDB, Elastic Search
+    - フロントエンド: HTML, CSS, JavaScript, Vue.js, jQuery, Bootstrap
+    - その他: GraphQL, Gatling (負荷テスト), Memcached
+- 基礎知識(学習・使用経験あり)
+    - 言語: Kotlin, Scala
+    - フレームワーク: Hibernate, Struts2, Spring Cloud, Dubbo
+    - ビッグデータ: Hadoop, Spark
+    - テンプレート: Freemarker, Thymeleaf
+    - LLM: Embedding, RAG, プロンプトエンジニアリング (Claude Code, Open Code使用)
+- ソフトスキル
+    - アジャイル/スクラム開発の実務経験
+    - チーム間のコミュニケーションと知識共有
+    - 要件分析とドキュメント作成
+    - 英語と日本語でのコミュニケーション (CET-6, JLPT N2保有)
 
 ## 職務経歴
 
-**蘇州イノソフトウェアテクノロジー有限公司 (Hatch Innovations)** ソフトウェアエンジニア <span class="right">2019.06 - 2025.08</span>
+**蘇州イノソフトウェアテクノロジー有限公司 (Hatch Innovations)** ソフトウェアエンジニア <span class="right">2019年6月 - 2025年8月</span>
 
 ## プロジェクト経験
 
-### EA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019.06 - 2025.08</span>
+### EA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019年6月 - 2025年8月</span>
 
 EA.comはElectronic Artsの主要なグローバルハブであり、包括的なゲームエコシステムを統合しています。このプラットフォームは、ゲームの発見、数百万人のプレイヤーのアカウント管理、および消費者への直接的なデジタルストアフロントのための集中型ポータルとして機能します。リアルタイムのサービスステータスの更新や、多様な国際的な視聴者に向けたローカライズされたコンテンツ配信を提供します。
 
@@ -93,7 +95,7 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 
 ---
 
-### EA.COMおよびサードパーティが使用するサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019.06 - 2025.08</span>
+### EA.COMおよびサードパーティが使用するサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019年6月 - 2025年8月</span>
 
 - EA.COMからサービスを分離し、上記の機能をサポートしました。
 - EA.COMの負荷を軽減し、EA.COMのキャッシュ設計に適合させました。
@@ -117,7 +119,7 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 
 ---
 
-### ESG.AI <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://esg.ai/our-product" target="_blank">ESG.AI product</a> <span class="right">2022.10 - 2023.03</span>
+### ESG.AI <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://esg.ai/our-product" target="_blank">ESG.AI product</a> <span class="right">2022年10月 - 2023年3月</span>
 
 ESG.AIは、リアルタイムのESGデータを使用して、業界のトレンド、分析、動的モデリングに基づいた実用的な洞察とともに、ESGスコアを最大化する機会を強調します。
 
@@ -127,7 +129,7 @@ ESG.AIは、リアルタイムのESGデータを使用して、業界のトレ�
 
 **担当業務**:
 
-- 顧客からのフィードバックを受け入れ、要件にする
+- クライアントからのフィードバックを受け入れ、要件にする
 - 定義された要件に基づいてアプリケーションを開発する
 - ユーザーが行う可能性が最も高いアクションフローに基づいて負荷テストを設計する
 - 複雑なRefinitivの計算式を学び、高性能な実装とSQLを考案する
@@ -141,7 +143,8 @@ ESG.AIは、リアルタイムのESGデータを使用して、業界のトレ�
 
 ## 資格
 
-- 中国プログラマー (日本の`基本情報技術者`と相互認証) <span class="right">2025.05 取得</span>
-- 日本語能力試験 (JLPT) N2 - スコア 116 <span class="right">2025.08 取得</span>
-- 中国大学英語六級 (CET-6) - スコア 499 <span class="right">2016.06 取得</span>
-- 中国大学英語四級 (CET-4) - スコア 545 <span class="right">2015.12 取得</span>
+- 情報セキュリティマネジメント <span class="right">2026年3月 取得</span>
+- 中国プログラマー (日本の`基本情報技術者`と相互認証) <span class="right">2025年5月 取得</span>
+- 日本語能力試験 (JLPT) N2 <span class="right">2025年8月 取得</span>
+- 中国大学英語六級 (CET-6) <span class="right">2016年6月 取得</span>
+- 中国大学英語四級 (CET-4) <span class="right">2015年12月 取得</span>
