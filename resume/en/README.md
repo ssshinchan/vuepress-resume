@@ -45,7 +45,7 @@
     - Frameworks: Hibernate, Struts2, Spring Cloud, Dubbo
     - Big Data: Hadoop, Spark
     - Template Engines: Freemarker, Thymeleaf
-    - LLM: Embedding, RAG, prompt engineering (using Claude Code, Open Code)
+    - LLM: AI Large language model agents, RAG development (using Claude Code, Open Code)
 - Soft Skills
     - Practical experience in Agile/Scrum development
     - Cross-team communication and knowledge sharing
@@ -72,7 +72,6 @@ EA.com serves as the primary global hub for Electronic Arts, integrating a compr
 - FC/NHL/F1/Madden Player Ratings – Game player stats available in both EA.COM and game client.
 - EA Employee Authentication – Internal authentication to prevent unpublished content leaking.
 - Game buying and promotions.
-- And more features.
 
 **Team Size**: 15 - 20
 
@@ -86,6 +85,7 @@ EA.com serves as the primary global hub for Electronic Arts, integrating a compr
 - Write documents and draw flows to let other teams have better understanding of the implementation.
 - Participated in Agile / Scrum activities.
 - Assist content managers to configure pages.
+- Improved the CI process and reduced build time by 30%.
 
 **Environment & Tech**:
 

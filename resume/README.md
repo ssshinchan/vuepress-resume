@@ -45,7 +45,7 @@
     - フレームワーク: Hibernate, Struts2, Spring Cloud, Dubbo
     - ビッグデータ: Hadoop, Spark
     - テンプレート: Freemarker, Thymeleaf
-    - LLM: Embedding, RAG, プロンプトエンジニアリング (Claude Code, Open Code使用)
+    - LLM: AI大規模言語モデルエージェント、RAG開発 (Claude Code, Open Code使用)
 - ソフトスキル
     - アジャイル/スクラム開発の実務経験
     - チーム間のコミュニケーションと知識共有
@@ -72,7 +72,6 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 - FC/NHL/F1/Madden Player Ratings – EA.COMとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
 - EA Employee Authentication – 未公開コンテンツのリークを防ぐための内部認証。
 - ゲームの購入とプロモーション。
-- その他多数の機能。
 
 **チーム規模**: 15 - 20
 
@@ -86,6 +85,7 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 - 他のチームが実装をよりよく理解できるように、ドキュメントを作成し、フローを描きました。
 - アジャイル/スクラム活動に参加しました。
 - コンテンツマネージャーがページを設定するのを支援しました。
+- CIプロセスを改善し、ビルド時間を30%短縮しました。
 
 **環境 & 技術**:
 
