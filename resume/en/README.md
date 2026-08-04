@@ -143,7 +143,7 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 
 ## Certificate
 
-- Japan Information Security Management <span class="right">Issued Mar 2026</span>
+- Japan Information Security Management <span class="right">Issued Apr 2026</span>
 - China Programmer Certification (mutually acknowledged with Japan's `基本情報技術者`) <span class="right">Issued May 2025</span>
 - Japanese-Language Proficiency Test (JLPT) N2 <span class="right">Issued Aug 2025</span>
 - China College English Test (CET-6) - Score 499 <span class="right">Issued Jun 2016</span>
