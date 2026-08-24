@@ -31,28 +31,16 @@
 
 ## 概要
 
-- ゲーム業界で6年間、グローバル向けWebサービスの設計・開発・運用を経験しました。
-- エキスパート(実務で深く使用)
-    - バックエンド: Java 8+, Spring Boot, Play Framework, Node.js, TypeScript
-    - データベース: MySQL (インデックス最適化), Redis, Memcached
-    - インフラ: AWS (Amazon EKS, Amazon EC2, Amazon DocumentDB, Amazon MSK, Amazon S3), Docker, Kubernetes
-    - 開発ツール: Git, Jenkins, GitLab CI, IntelliJ IDEA
-- 熟練(プロジェクトで使用経験あり)
-    - フレームワーク: Spring MVC, MyBatis, Koa.js, TypeORM
-    - データベース: MongoDB, PostgreSQL, DynamoDB, Elasticsearch
-    - フロントエンド: HTML, CSS, JavaScript, Vue.js, jQuery, Bootstrap
-    - その他: GraphQL, Gatling (負荷テスト), Memcached
-- 基礎知識(学習・使用経験あり)
-    - 言語: Kotlin, Scala
-    - フレームワーク: Hibernate, Struts2, Spring Cloud, Dubbo
-    - ビッグデータ: Hadoop, Spark
-    - テンプレート: Freemarker, Thymeleaf
-    - LLM: LLMを活用したエージェントおよびRAGの学習・個人プロジェクト経験 (Claude Code使用)
-- ソフトスキル
-    - アジャイル/スクラム開発の実務経験
-    - チーム間のコミュニケーションと知識共有
-    - 要件分析とドキュメント作成
-    - 日本語・英語・中国語での業務コミュニケーション
+- ソフトウェア業界で6年間、グローバル向けWebサービスのバックエンド設計・開発・運用を経験しました。
+- Javaバックエンド: Java 8+, Spring Boot, Play Framework, MyBatis, Spring Data JPA
+- Node.jsバックエンド: Node.js, Next.js, TypeScript, Koa.js, TypeORM, GraphQL
+- フロントエンド: Vue.js, React.js, JavaScript, HTML, CSS, jQuery
+- データベース: MySQL, PostgreSQL, Redis, Memcached, MongoDB, DocumentDB, DynamoDB, Elasticsearch
+- AWS・インフラ: Amazon EKS, EC2, S3, RDS, MSK, SQS, Docker, Kubernetes
+- 開発ツール・テスト: Git, Jenkins, GitLab CI, Bitbucket Pipelines, IntelliJ IDEA, Gatling
+- LLMエージェントとRAGの学習・個人プロジェクト経験があります（Claude Code使用）。
+- アジャイル/スクラム開発、要件分析、技術文書作成、チーム間の知識共有を経験しました。
+- 日本語・英語・中国語で業務コミュニケーションが可能です。
 
 ## 職務経歴
 

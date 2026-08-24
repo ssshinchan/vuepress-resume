@@ -4,6 +4,8 @@
     <h3>Backend/Full-stack Software Engineer</h3>
     <h4>Nationality: China</h4>
     <h4>Age: 29</h4>
+    <h4>Status of Residence: Student (valid until December 2027; planning to change to a work status)</h4>
+    <h4>Available from: September 2027 (part-time work available until August 2027)</h4>
   </div>
   <style>
     img {
@@ -23,34 +25,22 @@
 
 ## Education
 
-- **Zhejiang Wanli University** Computer Science and Technology, Bachelor <span class="right">Sep 2015 - Jun 2019</span>
+- **Zhejiang Wanli University** Computer Science and Technology, Bachelor's Degree <span class="right">September 2015 - June 2019</span>
 
-- **The Kyoto College of Graduate Studies for Informatics** Web Business Technology, Master <span class="right">Oct 2025 - Sep 2027</span>
+- **The Kyoto College of Graduate Studies for Informatics** Web Business Technology, Master's Degree (currently enrolled) <span class="right">October 2025 - September 2027</span>
 
 ## Summary
 
-- 6 years of experience in the game industry with expertise in portal sites, CMS, voting systems, authentication, membership, and game integration services.
-- Expert (Deep Production Experience)
-    - Backend: Java 8+, Spring Boot, Play Framework, Node.js, TypeScript
-    - Database: MySQL (index optimization), Redis, Memcached
-    - Infrastructure: AWS (Kubernetes, EC2, DocumentDB, Kafka, S3), Docker, Kubernetes
-    - Development Tools: Git, Jenkins, GitLab CI, IntelliJ IDEA
-- Proficient (Project Experience)
-    - Frameworks: Spring MVC, MyBatis, Koa.js, TypeORM
-    - Database: MongoDB, PostgreSQL, DynamoDB, Elastic Search
-    - Frontend: HTML, CSS, JavaScript, Vue.js, jQuery, Bootstrap
-    - Others: GraphQL, Gatling (load testing), Memcached
-- Familiar (Learning & Usage Experience)
-    - Languages: Kotlin, Scala
-    - Frameworks: Hibernate, Struts2, Spring Cloud, Dubbo
-    - Big Data: Hadoop, Spark
-    - Template Engines: Freemarker, Thymeleaf
-    - LLM: AI Large language model agents, RAG development (using Claude Code, Open Code)
-- Soft Skills
-    - Practical experience in Agile/Scrum development
-    - Cross-team communication and knowledge sharing
-    - Requirements analysis and documentation
-    - Communication in English and Japanese (CET-6, JLPT N2)
+- Six years of experience designing, developing, and operating backend systems for global web services in the software industry.
+- Java backend: Java 8+, Spring Boot, Play Framework, MyBatis, Spring Data JPA
+- Node.js backend: Node.js, Next.js, TypeScript, Koa.js, TypeORM, GraphQL
+- Frontend: Vue.js, React.js, JavaScript, HTML, CSS, jQuery
+- Databases: MySQL, PostgreSQL, Redis, Memcached, MongoDB, DocumentDB, DynamoDB, Elasticsearch
+- AWS and infrastructure: Amazon EKS, EC2, S3, RDS, MSK, SQS, Docker, Kubernetes
+- Development tools and testing: Git, Jenkins, GitLab CI, Bitbucket Pipelines, IntelliJ IDEA, Gatling
+- Experience learning and building personal projects with LLM agents and RAG using Claude Code.
+- Experience with Agile/Scrum development, requirements analysis, technical documentation, and cross-team knowledge sharing.
+- Able to communicate professionally in Japanese, English, and Chinese.
 
 ## Professional Experience
 
@@ -60,18 +50,20 @@
 
 ### EA.com <span class="role">Software Engineer - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">Jun 2019 - Aug 2025</span>
 
-EA.com serves as the primary global hub for Electronic Arts, integrating a comprehensive gaming ecosystem. The platform functions as a centralized portal for game discovery, account management for millions of players, and a direct-to-consumer digital storefront. It provides real-time service status updates, and localized content delivery for a diverse international audience.
+EA.com is Electronic Arts' global gaming portal, providing game information, player account management, a digital storefront, service status updates, and localized content.
 
-- Interact with EA Data Platform for user authentication (OAuth 2) and common service.
-- FIFA/FC/NHL Pro Clubs – Fetch and process clubs/players stats from game servers.
-- Command & Conquer: Tiberium Alliances – Web Game on EA.COM.
-- FIFA/FC/NHL/MADDEN’s Team of the Year/Predictor submission – User input form supporting at most 6000 request per second.
-- EA Play (Pro) membership management – Manage user subscription.
-- Apex Legends Global Series Leaderboard – Calculate and display result from Apex raw data.
-- Common game acquire page – Part of sunset of Origin which is old version of EA desktop client.
-- FC/NHL/F1/Madden Player Ratings – Game player stats available in both EA.COM and game client.
-- EA Employee Authentication – Internal authentication to prevent unpublished content leaking.
-- Game buying and promotions.
+Collaborated with the team to design, develop, and implement the following features.
+
+- User authentication (OAuth 2) and shared services integrated with the EA Data Platform.
+- FIFA/FC/NHL Pro Clubs – Retrieved and processed club and player statistics from game servers.
+- Command & Conquer: Tiberium Alliances – Web game on EA.com.
+- FIFA/FC/NHL/Madden Team of the Year and Predictor submission features – Designed for peak loads of up to 6,000 RPS.
+- EA Play (Pro) membership and subscription management.
+- Apex Legends Global Series Leaderboard – Calculated and displayed results from raw Apex data.
+- Game purchase and acquisition pages – Part of the sunset of Origin, the former EA desktop client.
+- FC/NHL/F1/Madden Player Ratings – Player statistics available on both EA.com and game clients.
+- EA Employee Authentication – Internal authentication to prevent leaks of unpublished content.
+- Game purchasing and promotions.
 
 **Team Size**: 15 - 20
 
@@ -95,21 +87,23 @@ EA.com serves as the primary global hub for Electronic Arts, integrating a compr
 
 ---
 
-### Services used by EA.COM and third parties <span class="role">Software Engineer - Hatch Innovations</span><span class="right">Jun 2019 - Aug 2025</span>
+### Services used by EA.com and third parties <span class="role">Software Engineer - Hatch Innovations</span><span class="right">June 2019 - August 2025</span>
 
-- Separate services from EA.COM and support the features above
-- Reduce the EA.COM load and fit the EA.COM cache design.
+EA.com-related services developed and maintained alongside the main EA.com platform.
+
+- Extracted features from EA.com into independent services and supported the related functionality.
+- Reduced the load on EA.com while aligning with its caching design.
 
 **Team Size**: 5
 
 **Project Role**: Back-end Team Lead
 
-**Tasks performed**:
+**Responsibilities**:
 
-- Participating in the design and tech selection
-- Implementing the complex part of the applications
-- Bug-fixing, code review, supporting QA testing, organizing knowledge sharing, and making related documentation
-- Participating in the business analysis tasks with the downstream teams and upstream teams, collecting requirements and feedback
+- Participated in design and technology selection.
+- Implemented complex parts of the applications.
+- Fixed bugs, reviewed code, supported QA testing, organized knowledge-sharing sessions, and prepared related documentation.
+- Participated in business analysis with related teams and collected requirements and feedback.
 
 **Environment & Tech**:
 
@@ -127,13 +121,13 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 
 **Project Role**: Key Developer
 
-**Tasks performed**:
+**Responsibilities**:
 
-- Accept feedback from customers and make into requirement
-- Develop application base on defined requirement
-- Design load testing based on action flows that the user most likely will do.
-- Learn complex Refinitiv formula and come up with implementations and SQLs with high performance
-- Code review and bug-fix
+- Collected customer feedback and incorporated it into requirements.
+- Developed the application based on defined requirements.
+- Designed and conducted load tests based on key user interaction scenarios.
+- Understood calculation logic created by data scientists and designed and implemented high-performance code and SQL.
+- Conducted code reviews and fixed bugs.
 
 **Environment & Tech**:
 
@@ -141,10 +135,10 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 - `Bitbucket pipeline`; `Docker`; `PostgreSQL`; `Elastic Search`; `Kubernetes`; `Redis`
 - `Kotlin`; `Spring Boot`; `Spring Data JPA`; `Quartz`; `Gradle`
 
-## Certificate
+## Certifications
 
-- Japan Information Security Management <span class="right">Issued Apr 2026</span>
-- China Programmer Certification (mutually acknowledged with Japan's `基本情報技術者`) <span class="right">Issued May 2025</span>
-- Japanese-Language Proficiency Test (JLPT) N2 <span class="right">Issued Aug 2025</span>
-- China College English Test (CET-6) - Score 499 <span class="right">Issued Jun 2016</span>
-- China College English Test (CET-4) - Score 545 <span class="right">Issued Dec 2015</span>
+- Information Security Management Examination <span class="right">Issued April 2026</span>
+- China Programmer Certification (mutually recognized with Japan's `Fundamental Information Technology Engineer Examination`) <span class="right">Issued May 2025</span>
+- Japanese-Language Proficiency Test (JLPT) N2 <span class="right">Issued August 2025</span>
+- China College English Test (CET-6) - Score: 499 <span class="right">Issued June 2016</span>
+- China College English Test (CET-4) - Score: 545 <span class="right">Issued December 2015</span>
