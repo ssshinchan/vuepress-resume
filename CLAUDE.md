@@ -15,6 +15,7 @@ The root `README.md` is project documentation, not the resume content.
 ## Content rules
 
 - When adding or editing Japanese text, use JLPT N3-level wording.
+- Keep same punctuation
 
 ## Common commands
 

@@ -5,6 +5,7 @@
     <h4>国籍: 中国</h4>
     <h4>年齢: 29</h4>
     <h4>在留資格: 留学(2027年12月まで、就労資格への変更を予定)</h4>
+    <h4>入社日: 2027年9月以降(2027年8月まではアルバイト勤務可)</h4>
   </div>
   <style>
     img {
@@ -26,19 +27,19 @@
 
 - **浙江万里学院** コンピュータサイエンスと技術、学士 <span class="right">2015年9月 - 2019年6月</span>
 
-- **京都情報大学院大学** 応用情報技術研究科ウエプビジネス技術専攻、修士（在学中） <span class="right">2025年10月 - 2027年9月</span>
+- **京都情報大学院大学** 応用情報技術研究科ウェブビジネス技術専攻、修士（在学中） <span class="right">2025年10月 - 2027年9月</span>
 
 ## 概要
 
-- ゲーム業界で6年の経験があり、ポータルサイト、CMS、投票、認証、会員、ゲーム連携サービスなどの専門知識を持っています。
+- ゲーム業界で6年間、グローバル向けWebサービスの設計・開発・運用を経験しました。
 - エキスパート(実務で深く使用)
     - バックエンド: Java 8+, Spring Boot, Play Framework, Node.js, TypeScript
     - データベース: MySQL (インデックス最適化), Redis, Memcached
-    - インフラ: AWS (Kubernetes, EC2, DocumentDB, Kafka, S3), Docker, Kubernetes
+    - インフラ: AWS (Amazon EKS, Amazon EC2, Amazon DocumentDB, Amazon MSK, Amazon S3), Docker, Kubernetes
     - 開発ツール: Git, Jenkins, GitLab CI, IntelliJ IDEA
 - 熟練(プロジェクトで使用経験あり)
     - フレームワーク: Spring MVC, MyBatis, Koa.js, TypeORM
-    - データベース: MongoDB, PostgreSQL, DynamoDB, Elastic Search
+    - データベース: MongoDB, PostgreSQL, DynamoDB, Elasticsearch
     - フロントエンド: HTML, CSS, JavaScript, Vue.js, jQuery, Bootstrap
     - その他: GraphQL, Gatling (負荷テスト), Memcached
 - 基礎知識(学習・使用経験あり)
@@ -46,12 +47,12 @@
     - フレームワーク: Hibernate, Struts2, Spring Cloud, Dubbo
     - ビッグデータ: Hadoop, Spark
     - テンプレート: Freemarker, Thymeleaf
-    - LLM: AI大規模言語モデルエージェント、RAG開発 (Claude Code, Open Code使用)
+    - LLM: LLMを活用したエージェントおよびRAGの学習・個人プロジェクト経験 (Claude Code使用)
 - ソフトスキル
     - アジャイル/スクラム開発の実務経験
     - チーム間のコミュニケーションと知識共有
     - 要件分析とドキュメント作成
-    - 英語と日本語でのコミュニケーション (CET-6, JLPT N2保有)
+    - 日本語・英語・中国語での業務コミュニケーション
 
 ## 職務経歴
 
@@ -61,15 +62,17 @@
 
 ### EA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019年6月 - 2025年8月</span>
 
-EA.comはElectronic Artsの主要なグローバルハブであり、包括的なゲームエコシステムを統合しています。このプラットフォームは、ゲームの発見、数百万人のプレイヤーのアカウント管理、および消費者への直接的なデジタルストアフロントのための集中型ポータルとして機能します。リアルタイムのサービスステータスの更新や、多様な国際的な視聴者に向けたローカライズされたコンテンツ配信を提供します。
+EA.comはElectronic Artsのグローバル向けゲームポータルであり、ゲーム情報、プレイヤーアカウント管理、デジタルストア、サービスステータス、各地域向けのコンテンツを提供しています。
+
+以下の機能において、チームと協力して設計・開発・実装を担当しました。
 
 - ユーザー認証（OAuth 2）と共通サービスのためにEAデータプラットフォームと連携。
 - FIFA/FC/NHL Pro Clubs – ゲームサーバーからクラブ/選手の統計を取得して処理。
 - Command & Conquer: Tiberium Alliances – EA.COM上のウェブゲーム。
-- FIFA/FC/NHL/MADDEN’s Team of the Year/Predictor submission – 毎秒最大6000リクエストをサポートするユーザー入力フォーム。
-- EA Play (Pro) membership management – ユーザーのサブスクリプション管理。
+- FIFA/FC/NHL/MADDENのTeam of the YearおよびPredictor向け投票・予想投稿機能 – ピーク時最大6,000 RPSを想定。
+- EA Play (Pro)の会員・サブスクリプション管理。
 - Apex Legends Global Series Leaderboard – Apexの生データから結果を計算して表示。
-- Common game acquire page – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
+- ゲーム購入・取得ページ – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
 - FC/NHL/F1/Madden Player Ratings – EA.COMとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
 - EA Employee Authentication – 未公開コンテンツのリークを防ぐための内部認証。
 - ゲームの購入とプロモーション。
@@ -80,26 +83,28 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 
 **担当業務**:
 
-- チームを超えて関係者とコミュニケーションを取り、知識を共有しました。
+- 複数チームの関係者と連携し、知識を共有しました。
 - 上記の機能を設計・実装し、毎年ゲームチームの要件に基づいて更新しました。
 - 高性能が求められる機能の負荷テストを実施し、それに応じてコードを最適化しました。
-- 他のチームが実装をよりよく理解できるように、ドキュメントを作成し、フローを描きました。
+- 他チームが実装・運用を円滑に進められるよう、設計書およびフロー図を作成しました。
 - アジャイル/スクラム活動に参加しました。
-- コンテンツマネージャーがページを設定するのを支援しました。
+- コンテンツ担当者によるページ設定・公開を技術面から支援しました。
 - CIプロセスを改善し、ビルド時間を30%短縮しました。
 
 **環境 & 技術**:
 
-- `AWS Kubernetes`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `Gitlab CI`; `Adobe Experience Manager`; `Docker`; `AWS Kubernetes`
-- `Java8`; `SBT`; `Play2 Framework`; `GraphQL`; `Memcached`; `Gatling`
+- `Amazon EKS`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Adobe Experience Manager`; `Docker`
+- `Java 8`; `SBT`; `Play Framework`; `GraphQL`; `Memcached`; `Gatling`
 
 ---
 
 ### EA.COMおよびサードパーティが使用するサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019年6月 - 2025年8月</span>
 
-- EA.COMからサービスを分離し、上記の機能をサポートしました。
-- EA.COMの負荷を軽減し、EA.COMのキャッシュ設計に適合させました。
+EA.comの関連サービスとして、EA.com本体と並行して担当しました。
+
+- EA.comから機能を独立したサービスへ分離し、関連機能を支援しました。
+- EA.comの負荷を軽減し、EA.comのキャッシュ設計に適合させました。
 
 **チーム規模**: 5
 
@@ -107,15 +112,15 @@ EA.comはElectronic Artsの主要なグローバルハブであり、包括的�
 
 **担当業務**:
 
-- 設計と技術選定への参加
-- アプリケーションの複雑な部分の実装
-- バグ修正、コードレビュー、QAテストのサポート、知識共有の整理、関連ドキュメントの作成
-- 下流チームおよび上流チームとのビジネス分析タスクへの参加、要件とフィードバックの収集
+- 設計と技術選定に参加しました。
+- アプリケーションの複雑な部分を実装しました。
+- バグ修正、コードレビュー、QAテストの支援、知識共有の整理、関連ドキュメントの作成を行いました。
+- 関連チームとのビジネス分析に参加し、要件とフィードバックを収集しました。
 
 **環境 & 技術**:
 
-- `AWS Kubernetes`; `AWS DocumentDB` (ユーザー投稿の保存); `AWS Kafka` (投稿の非同期処理); `AWS Redis`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `Gitlab CI`; `Docker`; `Kubernetes`; `MySQL`; `Redis`; `Elastic Search`; `HBase`
+- `Amazon EKS`; `Amazon DocumentDB` (ユーザー投稿の保存); `Amazon MSK` (投稿の非同期処理); `Amazon ElastiCache for Redis`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Docker`; `Kubernetes`; `MySQL`; `Redis`; `Elasticsearch`; `HBase`
 - `Node.js`; `TypeScript`; `Koa.js`; `TypeORM`
 
 ---
@@ -130,16 +135,16 @@ ESG.AIは、リアルタイムのESGデータを使用して、業界のトレ�
 
 **担当業務**:
 
-- クライアントからのフィードバックを受け入れ、要件にする
-- 定義された要件に基づいてアプリケーションを開発する
-- ユーザーが行う可能性が最も高いアクションフローに基づいて負荷テストを設計する
-- 複雑なRefinitivの計算式を学び、高性能な実装とSQLを考案する
-- コードレビューとバグ修正
+- 顧客からのフィードバックを整理し、要件へ反映しました。
+- 定義された要件に基づいてアプリケーションを開発しました。
+- 主要なユーザー操作シナリオに基づき、負荷試験を設計・実施しました。
+- データサイエンティストが作成した計算ロジックを理解し、高性能な実装とSQLを設計・実装しました。
+- コードレビューとバグ修正を行いました。
 
 **環境 & 技術**:
 
-- `AWS S3`; `AWS PostgreSQL`; `AWS SES`; `AWS SQS`; `AWS ECR`
-- `Bitbucket pipeline`; `Docker`; `PostgreSQL`; `Elastic Search`; `Kubernetes`; `Redis`
+- `Amazon S3`; `Amazon RDS for PostgreSQL`; `Amazon SES`; `Amazon SQS`; `Amazon ECR`
+- `Bitbucket Pipelines`; `Docker`; `PostgreSQL`; `Elasticsearch`; `Kubernetes`; `Redis`
 - `Kotlin`; `Spring Boot`; `Spring Data JPA`; `Quartz`; `Gradle`
 
 ## 資格
