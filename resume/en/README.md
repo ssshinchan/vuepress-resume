@@ -29,7 +29,7 @@
 
 - **The Kyoto College of Graduate Studies for Informatics** Web Business Technology, Master's Degree (currently enrolled) <span class="right">October 2025 - September 2027</span>
 
-## Summary
+## Skill List
 
 - Six years of experience designing, developing, and operating backend systems for global web services in the software industry.
 - Java backend: Java 8+, Spring Boot, Play Framework, MyBatis, Spring Data JPA
