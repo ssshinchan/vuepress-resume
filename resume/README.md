@@ -137,8 +137,9 @@ ESG.AIは、リアルタイムのESGデータを使用して、業界のトレ�
 
 ## 資格
 
+- 日本語能力試験 (JLPT) N1 <span class="right">2026年8月 取得</span>
 - 情報セキュリティマネジメント <span class="right">2026年4月 取得</span>
-- 中国プログラマー (日本の`基本情報技術者`と相互認証) <span class="right">2025年5月 取得</span>
 - 日本語能力試験 (JLPT) N2 <span class="right">2025年8月 取得</span>
+- 中国プログラマー (日本の`基本情報技術者`と相互認証) <span class="right">2025年5月 取得</span>
 - 中国大学英語六級 (CET-6) <span class="right">2016年6月 取得</span>
 - 中国大学英語四級 (CET-4) <span class="right">2015年12月 取得</span>
