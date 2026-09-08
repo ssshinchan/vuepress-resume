@@ -77,7 +77,7 @@ Collaborated with the team to design, develop, and implement the following featu
 - Write documents and draw flows to let other teams have better understanding of the implementation.
 - Participated in Agile / Scrum activities.
 - Assist content managers to configure pages.
-- Improved the CI process and reduced build time by 30%.
+- Designed and improved the CI process, reducing build time by 30%.
 
 **Environment & Tech**:
 
@@ -137,6 +137,7 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 
 ## Certifications
 
+- TOEIC Score 845 <span class="right">Issued September 2026</span>
 - Japanese-Language Proficiency Test (JLPT) N1 <span class="right">Issued August 2026</span>
 - Information Security Management Examination <span class="right">Issued April 2026</span>
 - Japanese-Language Proficiency Test (JLPT) N2 <span class="right">Issued August 2025</span>
