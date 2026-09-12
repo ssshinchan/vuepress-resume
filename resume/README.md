@@ -48,9 +48,9 @@
 
 ## プロジェクト経験
 
-### EA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019年6月 - 2025年8月</span>
+### ポータルサイトEA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019年6月 - 2025年8月</span>
 
-EA.comはElectronic Artsのグローバル向けゲームポータルであり、ゲーム情報、プレイヤーアカウント管理、デジタルストア、サービスステータス、各地域向けのコンテンツを提供しています。
+EA.comはElectronic Artsのグローバル向けゲームポータルサイトであり、ゲーム情報、プレイヤーアカウント管理、デジタルストア、サービスステータス、各地域向けのコンテンツを提供しています。
 
 以下の機能において、チームと協力して設計・開発・実装を担当しました。
 
@@ -113,9 +113,9 @@ EA.comの関連サービスとして、EA.com本体と並行して担当しま�
 
 ---
 
-### ESG.AI <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://esg.ai/" target="_blank">ESG.AI product</a> <span class="right">2022年10月 - 2023年3月</span>
+### データプラットフォームESG.AI <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://esg.ai/" target="_blank">ESG.AI product</a> <span class="right">2022年10月 - 2023年3月</span>
 
-ESG.AIは、リアルタイムのESGデータを使用して、企業の環境・社会・ガバナンス（ESG）の評価と報告を支援するデータインテリジェンスプラットフォームです。複雑なESG指標を可視化し、主要な報告基準に沿って分析とモデル化を行います。ロンドン証券取引所グループと連携して、市場データと分析機能を提供します。
+ESG.AIは、リアルタイムのESGデータを使用して、企業の環境・社会・ガバナンス（ESG）の評価と報告を支援するデータプラットフォームです。複雑なESG指標を可視化し、主要な報告基準に沿って分析とモデル化を行います。ロンドン証券取引所グループと連携して、市場データと分析機能を提供します。
 
 **チーム規模**: 6
 

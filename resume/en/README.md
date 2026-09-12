@@ -48,9 +48,9 @@
 
 ## Project Experience
 
-### EA.com <span class="role">Software Engineer - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">Jun 2019 - Aug 2025</span>
+### EA.com Portal <span class="role">Software Engineer - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">Jun 2019 - Aug 2025</span>
 
-EA.com is Electronic Arts' global gaming portal, providing game information, player account management, a digital storefront, service status updates, and localized content.
+EA.com is Electronic Arts' global gaming portal site, providing game information, player account management, a digital storefront, service status updates, and localized content.
 
 Collaborated with the team to design, develop, and implement the following features.
 
@@ -113,9 +113,9 @@ EA.com-related services developed and maintained alongside the main EA.com platf
 
 ---
 
-### ESG.AI <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://esg.ai/" target="_blank">ESG.AI product</a> <span class="right">Oct 2022 - Mar 2023</span>
+### ESG.AI Data Platform <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://esg.ai/" target="_blank">ESG.AI product</a> <span class="right">Oct 2022 - Mar 2023</span>
 
-ESG.AI is a data intelligence platform that supports the assessment and reporting of corporate environmental, social, and governance (ESG) performance using real-time ESG data. It visualizes complex ESG metrics and provides analysis and modelling aligned with major reporting standards. In collaboration with the London Stock Exchange Group, it provides market data and analytics capabilities.
+ESG.AI is a data platform that supports the assessment and reporting of corporate environmental, social, and governance (ESG) performance using real-time ESG data. It visualizes complex ESG metrics and provides analysis and modelling aligned with major reporting standards. In collaboration with the London Stock Exchange Group, it provides market data and analytics capabilities.
 
 **Team Size**: 6
 
