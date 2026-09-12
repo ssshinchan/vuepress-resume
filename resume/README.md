@@ -82,7 +82,7 @@ EA.comはElectronic Artsのグローバル向けゲームポータルであり�
 **環境 & 技術**:
 
 - `Amazon EKS`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Adobe Experience Manager`; `Docker`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Adobe Experience Manager`; `Docker`; `Kubernetes`
 - `Java 8`; `SBT`; `Play Framework`; `GraphQL`; `Memcached`; `Gatling`
 
 ---
@@ -113,9 +113,9 @@ EA.comの関連サービスとして、EA.com本体と並行して担当しま�
 
 ---
 
-### ESG.AI <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://esg.ai/our-product" target="_blank">ESG.AI product</a> <span class="right">2022年10月 - 2023年3月</span>
+### ESG.AI <span class="role">ソフトウェアエンジニア - Hatch Innovations</span> <a href="https://esg.ai/" target="_blank">ESG.AI product</a> <span class="right">2022年10月 - 2023年3月</span>
 
-ESG.AIは、リアルタイムのESGデータを使用して、業界のトレンド、分析、動的モデリングに基づいた実用的な洞察とともに、ESGスコアを最大化する機会を強調します。
+ESG.AIは、リアルタイムのESGデータを使用して、企業の環境・社会・ガバナンス（ESG）の評価と報告を支援するデータインテリジェンスプラットフォームです。複雑なESG指標を可視化し、主要な報告基準に沿って分析とモデル化を行います。ロンドン証券取引所グループと連携して、市場データと分析機能を提供します。
 
 **チーム規模**: 6
 

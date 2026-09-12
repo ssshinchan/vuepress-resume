@@ -81,9 +81,9 @@ Collaborated with the team to design, develop, and implement the following featu
 
 **Environment & Tech**:
 
-- `AWS Kubernetes`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `Gitlab CI`; `Adobe Experience Manager`; `Docker`; `AWS Kubernetes`
-- `Java8`; `SBT`; `Play2 Framework`; `GraphQL`; `Memcached`; `Gatling`
+- `Amazon EKS`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Adobe Experience Manager`; `Docker`; `Kubernetes`
+- `Java 8`; `SBT`; `Play Framework`; `GraphQL`; `Memcached`; `Gatling`
 
 ---
 
@@ -107,15 +107,15 @@ EA.com-related services developed and maintained alongside the main EA.com platf
 
 **Environment & Tech**:
 
-- `AWS Kubernetes`; `AWS DocumentDB` for storing user submissions; `AWS Kafka` for processing submission asynchronously; `AWS Redis`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `Gitlab CI`; `Docker`; `Kubernetes`; `MySQL`; `Redis`; `Elastic Search`; `HBase`
+- `Amazon EKS`; `Amazon DocumentDB` for storing user submissions; `Amazon MSK` for asynchronous submission processing; `Amazon ElastiCache for Redis`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Docker`; `Kubernetes`; `MySQL`; `Redis`; `Elasticsearch`; `HBase`
 - `Node.js`; `TypeScript`; `Koa.js`; `TypeORM`
 
 ---
 
-### ESG.AI <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://esg.ai/our-product" target="_blank">ESG.AI product</a> <span class="right">Oct 2022 - Mar 2023</span>
+### ESG.AI <span class="role">Software Engineer - Hatch Innovations</span> <a href="https://esg.ai/" target="_blank">ESG.AI product</a> <span class="right">Oct 2022 - Mar 2023</span>
 
-ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score along with actionable insights informed by industry trends, analytics, and dynamic modelling.
+ESG.AI is a data intelligence platform that supports the assessment and reporting of corporate environmental, social, and governance (ESG) performance using real-time ESG data. It visualizes complex ESG metrics and provides analysis and modelling aligned with major reporting standards. In collaboration with the London Stock Exchange Group, it provides market data and analytics capabilities.
 
 **Team Size**: 6
 
@@ -131,8 +131,8 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 
 **Environment & Tech**:
 
-- `AWS S3`; `AWS PostgreSQL`; `AWS SES`; `AWS SQS`; `AWS ECR`
-- `Bitbucket pipeline`; `Docker`; `PostgreSQL`; `Elastic Search`; `Kubernetes`; `Redis`
+- `Amazon S3`; `Amazon RDS for PostgreSQL`; `Amazon SES`; `Amazon SQS`; `Amazon ECR`
+- `Bitbucket Pipelines`; `Docker`; `PostgreSQL`; `Elasticsearch`; `Kubernetes`; `Redis`
 - `Kotlin`; `Spring Boot`; `Spring Data JPA`; `Quartz`; `Gradle`
 
 ## Certifications
@@ -142,5 +142,5 @@ ESG.AI uses real-time ESG data to highlight opportunities to maximise ESG score 
 - Information Security Management Examination <span class="right">Issued April 2026</span>
 - Japanese-Language Proficiency Test (JLPT) N2 <span class="right">Issued August 2025</span>
 - China Programmer Certification (mutually recognized with Japan's `Fundamental Information Technology Engineer Examination`) <span class="right">Issued May 2025</span>
-- China College English Test (CET-6) - Score: 499 <span class="right">Issued June 2016</span>
-- China College English Test (CET-4) - Score: 545 <span class="right">Issued December 2015</span>
+- China College English Test (CET-6) <span class="right">Issued June 2016</span>
+- China College English Test (CET-4) <span class="right">Issued December 2015</span>
