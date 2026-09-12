@@ -56,12 +56,12 @@ EA.comはElectronic Artsのグローバル向けゲームポータルであり�
 
 - ユーザー認証（OAuth 2）と共通サービスのためにEAデータプラットフォームと連携。
 - FIFA/FC/NHL Pro Clubs – ゲームサーバーからクラブ/選手の統計を取得して処理。
-- Command & Conquer: Tiberium Alliances – EA.COM上のウェブゲーム。
+- Command & Conquer: Tiberium Alliances – EA.com上のウェブゲーム。
 - FIFA/FC/NHL/MADDENのTeam of the YearおよびPredictor向け投票・予想投稿機能 – ピーク時最大6,000 RPSを想定。
 - EA Play (Pro)の会員・サブスクリプション管理。
 - Apex Legends Global Series Leaderboard – Apexの生データから結果を計算して表示。
 - ゲーム購入・取得ページ – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
-- FC/NHL/F1/Madden Player Ratings – EA.COMとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
+- FC/NHL/F1/Madden Player Ratings – EA.comとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
 - EA Employee Authentication – 未公開コンテンツのリークを防ぐための内部認証。
 - ゲームの購入とプロモーション。
 
@@ -87,7 +87,7 @@ EA.comはElectronic Artsのグローバル向けゲームポータルであり�
 
 ---
 
-### EA.COMおよびサードパーティが使用するサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019年6月 - 2025年8月</span>
+### EA.comおよびサードパーティが使用するサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019年6月 - 2025年8月</span>
 
 EA.comの関連サービスとして、EA.com本体と並行して担当しました。
 
