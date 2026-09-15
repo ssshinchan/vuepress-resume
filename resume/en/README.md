@@ -54,16 +54,15 @@ EA.com is Electronic Arts' global gaming portal site, providing game information
 
 Collaborated with the team to design, develop, and implement the following features.
 
-- User authentication (OAuth 2) and shared services integrated with the EA Data Platform.
-- FIFA/FC/NHL Pro Clubs – Retrieved and processed club and player statistics from game servers.
-- Command & Conquer: Tiberium Alliances – Web game on EA.com.
-- FIFA/FC/NHL/Madden Team of the Year and Predictor submission features – Designed for peak loads of up to 6,000 RPS.
-- EA Play (Pro) membership and subscription management.
-- Apex Legends Global Series Leaderboard – Calculated and displayed results from raw Apex data.
-- Game purchase and acquisition pages – Part of the sunset of Origin, the former EA desktop client.
-- FC/NHL/F1/Madden Player Ratings – Player statistics available on both EA.com and game clients.
-- EA Employee Authentication – Internal authentication to prevent leaks of unpublished content.
-- Game purchasing and promotions.
+- User authentication (OAuth 2.0) and integration with the EA Data Platform for shared services.
+- FC (formerly FIFA), NHL, and Madden Team of the Year and Predictor voting and prediction features, including social sharing of results.
+- FIFA/FC/NHL Pro Clubs - Retrieved and processed club and player statistics from game servers.
+- Command & Conquer: Tiberium Alliances - Web game on EA.com.
+- EA Play (Pro) subscription purchase and cancellation.
+- Apex Legends Global Series leaderboard display.
+- Game purchase and promotion pages as part of the sunset of Origin, the former EA desktop client.
+- FC (formerly FIFA), NHL, F1, and Madden Player Ratings - Player statistics available on both EA.com and game clients.
+- EA Employee OAuth 2.0 internal authentication to prevent leaks of unpublished content.
 
 **Team Size**: 15 - 20
 
@@ -91,6 +90,8 @@ Collaborated with the team to design, develop, and implement the following featu
 
 EA.com-related services developed and maintained alongside the main EA.com platform.
 
+- Provided FIFA/FC/NHL/Madden Team of the Year and Predictor voting and prediction features as microservices, supporting up to 6,000 RPS.
+- Generated images of voting and prediction results in real time, supporting up to 300 RPS.
 - Extracted features from EA.com into independent services and supported the related functionality.
 - Reduced the load on EA.com while aligning with its caching design.
 
@@ -101,6 +102,7 @@ EA.com-related services developed and maintained alongside the main EA.com platf
 **Responsibilities**:
 
 - Participated in design and technology selection.
+- Designed and conducted load tests to determine the server scaling requirements for the target RPS.
 - Implemented complex parts of the applications.
 - Fixed bugs, reviewed code, supported QA testing, organized knowledge-sharing sessions, and prepared related documentation.
 - Participated in business analysis with related teams and collected requirements and feedback.

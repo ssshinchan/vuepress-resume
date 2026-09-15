@@ -37,7 +37,7 @@
     - フロントエンド: JavaScript, HTML, CSS, jQuery, Bootstrap
     - データベース: MySQL, Redis
     - インフラ: AWS (Amazon EC2, Amazon S3, Amazon SQS), Docker, Kubernetes, Kafka
-    - 開発ツール・テスト: Git, Jenkins, Github Action, GitLab CI, IntelliJ IDEA, Gatling
+    - 開発ツール・テスト: Git, Git Flow, Jenkins, Github Action, GitLab CI, IntelliJ IDEA, Gatling
 - 熟練(プロジェクトで使用経験あり)
     - バックエンド・フレームワーク: Spring MVC, MyBatis, Spring Data JPA, Next.js, Koa.js, TypeORM, GraphQL
     - データベース: MongoDB, PostgreSQL, DynamoDB, Elasticsearch, Memcached
@@ -67,15 +67,15 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 
 以下の機能において、チームと協力して設計・開発・実装を担当しました。
 
-- FIFA/FC/NHL/MADDENのTeam of the YearおよびPredictor向け投票・予想投稿機能 – ピーク時最大6,000 RPSを想定。
-- ユーザー認証（OAuth 2）と共通サービスのためにEAデータプラットフォームと連携。
-- FIFA/FC/NHL Pro Clubs – ゲームサーバーからクラブ/選手の統計を取得して処理。
-- Command & Conquer: Tiberium Alliances – EA.com上のウェブゲーム。
-- EA Play (Pro)の会員・サブスクリプション管理。
-- Apex Legends Global Series Leaderboard – Apexの生データから結果を計算して表示。
-- ゲーム購入・プロモーションページ – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
-- FC/NHL/F1/Madden Player Ratings – EA.comとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
-- EA Employee Authentication – 未公開コンテンツのリークを防ぐための内部認証。
+- FC(FIFA)/FC/NHL/MADDEN Team of the Year・Predictorの投票・予想機能と結果のSNS共有機能。
+- OAuth 2.0認証・共通サービス向けEAデータプラットフォーム連携。
+- FIFA/FC/NHL Pro Clubsのクラブ・選手・試合統計処理。
+- Command & Conquer: Tiberium AlliancesのWebゲーム。
+- EA Play (Pro)のサブスクリプション購入・キャンセル。
+- Apex Legends Global Seriesのeスポーツのランキング表示。
+- ゲーム購入・プロモーションページ（Origin終了対応）。
+- FC(FIFA)/NHL/F1/Maddenの選手レーティング。
+- EA Employee OAuth 2.0による社内認証とアクセス制御。
 
 **チーム規模**: 15 - 20
 
@@ -90,6 +90,7 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 - 他チームが実装・運用を円滑に進められるよう、設計書およびフロー図を作成しました。
 - アジャイル/スクラム活動に参加しました。
 - コンテンツ担当者によるページ設定・公開を技術面から支援しました。
+- Git Flowを使用してリリースとデプロイを行いました。
 
 **技術 & 環境**:
 
@@ -103,6 +104,8 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 
 EA.comの関連サービスとして、EA.com本体と並行して担当しました。
 
+- FIFA/FC/NHL/MADDEN Team of the Year・Predictorの投票・予想機能をマイクロサービスとして提供（最大6,000 RPS）。
+- 投票・予想結果の画像をリアルタイムで生成し（最大300 RPS）。
 - EA.comから機能を独立したサービスへ分離し、関連機能を支援しました。
 - EA.comの負荷を軽減し、EA.comのキャッシュ設計に適合させました。
 
@@ -113,6 +116,7 @@ EA.comの関連サービスとして、EA.com本体と並行して担当しま�
 **担当業務**:
 
 - 設計と技術選定に参加しました。
+- 目標RPSを達成するための負荷テストを設計・実施し、必要なサーバー拡張要件を検証しました。
 - アプリケーションの複雑な部分を実装しました。
 - バグ修正、コードレビュー、QAテストの支援、知識共有の整理、関連ドキュメントの作成を行いました。
 - 関連チームとのビジネス分析に参加し、要件とフィードバックを収集しました。
