@@ -31,16 +31,29 @@
 
 ## スキル一覧
 
-- ソフトウェア業界で6年間、グローバル向けWebサービスのバックエンド設計・開発・運用を経験しました。
-- Javaバックエンド: Java 8+, Spring Boot, Play Framework, MyBatis, Spring Data JPA
-- Node.jsバックエンド: Node.js, Next.js, TypeScript, Koa.js, TypeORM, GraphQL
-- フロントエンド: Vue.js, React.js, JavaScript, HTML, CSS, jQuery
-- データベース: MySQL, PostgreSQL, Redis, Memcached, MongoDB, DocumentDB, DynamoDB, Elasticsearch
-- AWS・インフラ: Amazon EKS, EC2, S3, RDS, MSK, SQS, Docker, Kubernetes
-- 開発ツール・テスト: Git, Jenkins, GitLab CI, Bitbucket Pipelines, IntelliJ IDEA, Gatling
-- LLMエージェントとRAGの学習・個人プロジェクト経験があります（Claude Code使用）。
-- アジャイル/スクラム開発、要件分析、技術文書作成、チーム間の知識共有を経験しました。
-- 日本語・英語・中国語で業務コミュニケーションが可能です。
+- ソフトウェア業界で6年間、グローバル向けWebサービスの設計・開発・運用を経験しました。
+- エキスパート(実務で深く使用)
+    - バックエンド: Java, Spring Boot, Play Framework, Node.js, TypeScript
+    - フロントエンド: JavaScript, HTML, CSS, jQuery, Bootstrap
+    - データベース: MySQL, Redis
+    - インフラ: AWS (Amazon EC2, Amazon S3, Amazon SQS), Docker, Kubernetes, Kafka
+    - 開発ツール・テスト: Git, Jenkins, Github Action, GitLab CI, IntelliJ IDEA, Gatling
+- 熟練(プロジェクトで使用経験あり)
+    - バックエンド・フレームワーク: Spring MVC, MyBatis, Spring Data JPA, Next.js, Koa.js, TypeORM, GraphQL
+    - データベース: MongoDB, PostgreSQL, DynamoDB, Elasticsearch, Memcached
+    - フロントエンド: Vue.js, React.js
+    - 開発ツール: Bitbucket Pipelines
+- 基礎知識(学習・使用経験あり)
+    - 言語: Kotlin, Scala
+    - フレームワーク: Hibernate, Struts2, Spring Cloud, Dubbo
+    - ビッグデータ: Hadoop, Spark
+    - テンプレート: Freemarker, Thymeleaf
+    - LLM: LangChain, RAG, Claude Code
+- ソフトスキル
+    - アジャイル/スクラム開発の実務経験
+    - チーム間のコミュニケーションと知識共有
+    - キュメント作成
+    - 日本語・英語・中国語での業務コミュニケーション
 
 ## 職務経歴
 
@@ -54,16 +67,15 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 
 以下の機能において、チームと協力して設計・開発・実装を担当しました。
 
+- FIFA/FC/NHL/MADDENのTeam of the YearおよびPredictor向け投票・予想投稿機能 – ピーク時最大6,000 RPSを想定。
 - ユーザー認証（OAuth 2）と共通サービスのためにEAデータプラットフォームと連携。
 - FIFA/FC/NHL Pro Clubs – ゲームサーバーからクラブ/選手の統計を取得して処理。
 - Command & Conquer: Tiberium Alliances – EA.com上のウェブゲーム。
-- FIFA/FC/NHL/MADDENのTeam of the YearおよびPredictor向け投票・予想投稿機能 – ピーク時最大6,000 RPSを想定。
 - EA Play (Pro)の会員・サブスクリプション管理。
 - Apex Legends Global Series Leaderboard – Apexの生データから結果を計算して表示。
-- ゲーム購入・取得ページ – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
+- ゲーム購入・プロモーションページ – EAデスクトップクライアントの旧バージョンであるOriginのサンセットの一部。
 - FC/NHL/F1/Madden Player Ratings – EA.comとゲームクライアントの両方で利用可能なゲームプレイヤーの統計。
 - EA Employee Authentication – 未公開コンテンツのリークを防ぐための内部認証。
-- ゲームの購入とプロモーション。
 
 **チーム規模**: 15 - 20
 
@@ -71,19 +83,19 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 
 **担当業務**:
 
+- CIプロセスを設計・改善し、ビルド時間を30%短縮しました。
 - 複数チームの関係者と連携し、知識を共有しました。
 - 上記の機能を設計・実装し、毎年ゲームチームの要件に基づいて更新しました。
 - 高性能が求められる機能の負荷テストを実施し、それに応じてコードを最適化しました。
 - 他チームが実装・運用を円滑に進められるよう、設計書およびフロー図を作成しました。
 - アジャイル/スクラム活動に参加しました。
 - コンテンツ担当者によるページ設定・公開を技術面から支援しました。
-- CIプロセスを設計・改善し、ビルド時間を30%短縮しました。
 
-**環境 & 技術**:
+**技術 & 環境**:
 
-- `Amazon EKS`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Adobe Experience Manager`; `Docker`; `Kubernetes`
-- `Java 8`; `SBT`; `Play Framework`; `GraphQL`; `Memcached`; `Gatling`
+- `Java`; `Scala`; `Play Framework`; `GraphQL`; `Memcached`; `OAuth 2.0`
+- `AWS`; `Docker`; `Kubernetes`, `Adobe Experience Manager`; `Memcached`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `SBT`; `Gatling`
 
 ---
 
@@ -105,11 +117,11 @@ EA.comの関連サービスとして、EA.com本体と並行して担当しま�
 - バグ修正、コードレビュー、QAテストの支援、知識共有の整理、関連ドキュメントの作成を行いました。
 - 関連チームとのビジネス分析に参加し、要件とフィードバックを収集しました。
 
-**環境 & 技術**:
+**技術 & 環境**:
 
-- `Amazon EKS`; `Amazon DocumentDB` (ユーザー投稿の保存); `Amazon MSK` (投稿の非同期処理); `Amazon ElastiCache for Redis`
-- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `Docker`; `Kubernetes`; `MySQL`; `Redis`; `Elasticsearch`; `HBase`
-- `Node.js`; `TypeScript`; `Koa.js`; `TypeORM`
+- `Java`; `TypeScript`; `Spring Boot`; `Node.js`; `Koa.js`; `TypeORM`
+- `AWS`; `Docker`; `Kubernetes`; `MongoDB`; `Kafka`; `Redis`; `MySQL`; `Elasticsearch`; `HBase`
+- `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`
 
 ---
 
@@ -129,11 +141,11 @@ ESG.AIは、リアルタイムのESGデータを使用して、企業の環境�
 - データサイエンティストが作成した計算ロジックを理解し、高性能な実装とSQLを設計・実装しました。
 - コードレビューとバグ修正を行いました。
 
-**環境 & 技術**:
+**技術 & 環境**:
 
-- `Amazon S3`; `Amazon RDS for PostgreSQL`; `Amazon SES`; `Amazon SQS`; `Amazon ECR`
-- `Bitbucket Pipelines`; `Docker`; `PostgreSQL`; `Elasticsearch`; `Kubernetes`; `Redis`
 - `Kotlin`; `Spring Boot`; `Spring Data JPA`; `Quartz`; `Gradle`
+- `AWS`; `Docker`; `Kubernetes`; `Amazon S3`; `Amazon SES`; `Amazon SQS`; `PostgreSQL`; `Elasticsearch`; `Redis`
+- `IntelliJ IDEA`; `Git`; `Bitbucket Pipelines`
 
 ## 資格
 
