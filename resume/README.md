@@ -1,11 +1,11 @@
 <div>
   <div>
     <h1>SHEN PUMING(Perry)</h1>
-    <h3>バックエンド / フルスタック ソフトウェアエンジニア</h3>
-    <h4>国籍: 中国</h4>
+    <h3>バックエンド / フルスタック エンジニア</h3>
     <h4>年齢: 29</h4>
+    <h4>京都在住</h4>
     <h4>在留資格: 留学(2027年12月まで、就労資格への変更を予定)</h4>
-    <h4>入社日: 2027年9月以降(2027年8月まではアルバイト勤務可)</h4>
+    <h4>入社可能時期: 2027年10月以降</h4>
   </div>
   <style>
     img {
@@ -31,29 +31,29 @@
 
 ## スキル一覧
 
-- ソフトウェア業界で6年間、グローバル向けWebサービスの設計・開発・運用を経験しました。
-- エキスパート(実務で深く使用)
+- ソフトウェア業界で約6年間、グローバル向けWebサービスの設計・開発・運用を経験しました。
+- 実務経験が豊富
     - バックエンド: Java, Spring Boot, Play Framework, Node.js, TypeScript
     - フロントエンド: JavaScript, HTML, CSS, jQuery, Bootstrap
     - データベース: MySQL, Redis
     - インフラ: AWS (Amazon EC2, Amazon S3, Amazon SQS), Docker, Kubernetes, Kafka
     - 開発ツール・テスト: Git, Git Flow, Jenkins, Github Action, GitLab CI, IntelliJ IDEA, Gatling
-- 熟練(プロジェクトで使用経験あり)
+- 実務経験あり
     - バックエンド・フレームワーク: Spring MVC, MyBatis, Spring Data JPA, Next.js, Koa.js, TypeORM, GraphQL
     - データベース: MongoDB, PostgreSQL, DynamoDB, Elasticsearch, Memcached
     - フロントエンド: Vue.js, React.js
     - 開発ツール: Bitbucket Pipelines
-- 基礎知識(学習・使用経験あり)
+- 基礎知識・使用経験
     - 言語: Kotlin, Scala
     - フレームワーク: Hibernate, Struts2, Spring Cloud, Dubbo
     - ビッグデータ: Hadoop, Spark
     - テンプレート: Freemarker, Thymeleaf
-    - LLM: LangChain, RAG, Claude Code
+    - AI / LLM: LangChain, RAG, Claude Code
 - ソフトスキル
     - アジャイル/スクラム開発の実務経験
     - チーム間のコミュニケーションと知識共有
     - キュメント作成
-    - 日本語・英語・中国語での業務コミュニケーション
+    - 日本語・英語・中国語によるコミュニケーション
 
 ## 職務経歴
 
@@ -63,23 +63,23 @@
 
 ### ポータルサイトEA.com <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><a href="https://www.ea.com" target="_blank"><img src="https://media.contentapi.ea.com/content/dam/eacom/common/medallion-violet.png"> www.ea.com</a> <span class="right">2019年6月 - 2025年8月</span>
 
-EA.comはElectronic Artsのグローバル向けゲームポータルサイトであり、ゲーム情報、プレイヤーアカウント管理、デジタルストア、サービスステータス、各地域向けのコンテンツを提供しています。
+EA.comはElectronic Artsのグローバル向けゲームポータルサイトで、ゲーム情報、プレイヤーアカウント管理、デジタルストア、サービスステータス、各地域向けのコンテンツを提供しています。
 
 以下の機能において、チームと協力して設計・開発・実装を担当しました。
 
-- FC(FIFA)/FC/NHL/MADDEN Team of the Year・Predictorの投票・予想機能と結果のSNS共有機能。
+- FC (FIFA) /NHL/MADDEN Team of the Year・Predictorの投票・予想機能と結果のSNS共有機能。
 - OAuth 2.0認証・共通サービス向けEAデータプラットフォーム連携。
-- FIFA/FC/NHL Pro Clubsのクラブ・選手・試合統計処理。
+- FC（FIFA）/NHL Pro Clubsのクラブ・選手・試合統計処理。
+- FC（FIFA）/NHL/F1/Maddenの選手レーティング。
+- Apex Legends Global Seriesのeスポーツランキング表示。
 - Command & Conquer: Tiberium AlliancesのWebゲーム。
 - EA Play (Pro)のサブスクリプション購入・キャンセル。
-- Apex Legends Global Seriesのeスポーツのランキング表示。
 - ゲーム購入・プロモーションページ（Origin終了対応）。
-- FC(FIFA)/NHL/F1/Maddenの選手レーティング。
-- EA Employee OAuth 2.0による社内認証とアクセス制御。
+- EA社内向けOAuth 2.0認証・アクセス制御、ページの不正利用防止用透かしを実装
 
 **チーム規模**: 15 - 20
 
-**プロジェクトの役割**: バックエンド技術リーダー
+**役割**: バックエンド技術リーダー
 
 **担当業務**:
 
@@ -94,20 +94,22 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 
 **技術 & 環境**:
 
-- `Java`; `Scala`; `Play Framework`; `GraphQL`; `Memcached`; `OAuth 2.0`
+- `Java`; `Scala`; `Play Framework`; `GraphQL`; `OAuth 2.0`
 - `AWS`; `Docker`; `Kubernetes`, `Adobe Experience Manager`; `Memcached`
 - `IntelliJ IDEA`; `Git`; `Jenkins`; `GitLab CI`; `SBT`; `Gatling`
 
 ---
 
-### EA.comおよびサードパーティが使用するサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019年6月 - 2025年8月</span>
+### EA.com向けマイクロサービス <span class="role">ソフトウェアエンジニア - Hatch Innovations</span><span class="right">2019年6月 - 2025年8月</span>
 
-EA.comの関連サービスとして、EA.com本体と並行して担当しました。
+EA.com本体と並行して、EA.comから利用されるゲーム関連機能を、独立したマイクロサービスとして設計・実装しました。
 
-- FIFA/FC/NHL/MADDEN Team of the Year・Predictorの投票・予想機能をマイクロサービスとして提供（最大6,000 RPS）。
-- 投票・予想結果の画像をリアルタイムで生成し（最大300 RPS）。
-- EA.comから機能を独立したサービスへ分離し、関連機能を支援しました。
-- EA.comの負荷を軽減し、EA.comのキャッシュ設計に適合させました。
+- FC（FIFA）/NHL/Madden Team of the Year・Predictorの投票・予想機能を提供（最大6,000 RPS）。
+- 投票・予想結果の画像をリアルタイム生成（最大300 RPS）。
+- FC（FIFA）/NHL Pro Clubsのクラブ・選手・試合統計処理。
+- FC（FIFA）/NHL/F1/Maddenの選手レーティング。
+- Apex Legends Global Seriesのeスポーツランキング表示。
+- EA.comの負荷を軽減し、利用可能な独立サービスとして機能を分離。
 
 **チーム規模**: 5
 
@@ -118,7 +120,7 @@ EA.comの関連サービスとして、EA.com本体と並行して担当しま�
 - 設計と技術選定に参加しました。
 - 目標RPSを達成するための負荷テストを設計・実施し、必要なサーバー拡張要件を検証しました。
 - アプリケーションの複雑な部分を実装しました。
-- バグ修正、コードレビュー、QAテストの支援、知識共有の整理、関連ドキュメントの作成を行いました。
+- バグ修正、コードレビュー、QAチームへの技術的なサポート、知識共有の整理、関連ドキュメントの作成を行いました。
 - 関連チームとのビジネス分析に参加し、要件とフィードバックを収集しました。
 
 **技術 & 環境**:
@@ -135,15 +137,15 @@ ESG.AIは、リアルタイムのESGデータを使用して、企業の環境�
 
 **チーム規模**: 6
 
-**プロジェクトの役割**: 主要開発者
+**プロジェクトの役割**: メイン開発者
 
 **担当業務**:
 
 - 顧客からのフィードバックを整理し、要件へ反映しました。
 - 定義された要件に基づいてアプリケーションを開発しました。
-- 主要なユーザー操作シナリオに基づき、負荷試験を設計・実施しました。
-- データサイエンティストが作成した計算ロジックを理解し、高性能な実装とSQLを設計・実装しました。
-- コードレビューとバグ修正を行いました。
+- ユーザー操作シナリオに基づき、負荷試験を設計・実施しました。
+- データサイエンティストが設計した計算ロジックを理解し、SQLおよびバックエンド処理として実装しました。
+- PostgreSQLを利用したデータ処理を最適化し、パフォーマンスを向上させました。
 
 **技術 & 環境**:
 
@@ -155,8 +157,6 @@ ESG.AIは、リアルタイムのESGデータを使用して、企業の環境�
 
 - TOEIC 845点 <span class="right">2026年9月 取得</span>
 - 日本語能力試験 (JLPT) N1 <span class="right">2026年8月 取得</span>
-- 情報セキュリティマネジメント <span class="right">2026年4月 取得</span>
+- 情報セキュリティマネジメント試験 <span class="right">2026年4月 取得</span>
 - 日本語能力試験 (JLPT) N2 <span class="right">2025年8月 取得</span>
 - 中国プログラマー (日本の`基本情報技術者`と相互認証) <span class="right">2025年5月 取得</span>
-- 中国大学英語六級 (CET-6) <span class="right">2016年6月 取得</span>
-- 中国大学英語四級 (CET-4) <span class="right">2015年12月 取得</span>
