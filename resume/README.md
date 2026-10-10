@@ -14,7 +14,6 @@
   </style>
   
   <ul>
-    <li><span><img src="./img/phone-outline.svg"></span>+81 070-8948-7848</li>
     <li><span><img src="./img/email-outline.svg"></span> <a href="mailto:fumei.shin@outlook.com" target="_blank">fumei.shin@outlook.com</a></li>
     <li><span><img src="./img/github-outline.svg"></span> <a href="https://github.com/ssshinchan" target="_blank">github.com/ssshinchan</a></li>
     <li><span><img src="./img/linkedin.svg"></span> <a href="https://www.linkedin.com/in/puming-shen-607195257" target="_blank">linkedin.com/in/puming-shen-607195257</a></li>
@@ -68,6 +67,7 @@ EA.comはElectronic Artsのグローバル向けゲームポータルサイト�
 以下の機能において、チームと協力して設計・開発・実装を担当しました。
 
 - FC (FIFA) /NHL/MADDEN Team of the Year・Predictorの投票・予想機能と結果のSNS共有機能。
+- 2022年FIFAワールドカップの投票・予想機能。
 - OAuth 2.0認証・共通サービス向けEAデータプラットフォーム連携。
 - FC（FIFA）/NHL Pro Clubsのクラブ・選手・試合統計処理。
 - FC（FIFA）/NHL/F1/Maddenの選手レーティング。
